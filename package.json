@@ -1,0 +1,25 @@
+{
+    "name": "activecollab",
+    "version": "0.0.1",
+	"description": "API Client for ActiveCollab",
+    "homepage": "https://bitbucket.org/lasar/activecollab-node",
+    "license": "MIT",
+    "author": {
+    	"name": "Lasar Liepins",
+    	"email": "lasar@liepins.net",
+    	"url": "http://lasar.org/"
+    },
+    "repository": {
+    	"type": "git",
+    	"url": "https://bitbucket.org/lasar/activecollab-node.git"
+    },
+    "bugs": {
+    	"url": "https://bitbucket.org/lasar/activecollab-node/issues",
+    	"email": "lasar@liepins.net"
+    },
+    "main": "index.js",
+    "engines" : {
+    	"node": ">=0.10"
+    },
+    "dependencies": {}
+}
