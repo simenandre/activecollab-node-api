@@ -1,7 +1,7 @@
-# activecollab-node
+# activecollab-node-api
 
-A simple client module for accessing ActiveCollab's API. Only a handful of the
-most basic endpoints are actually implemented (read: what I needed myself).
+A simple client module for accessing ActiveCollab's API.
+Based on the work of @lasar
 
 ## Installation
 

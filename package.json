@@ -1,21 +1,21 @@
 {
-    "name": "activecollab",
+    "name": "activecollab-api",
     "version": "0.0.1",
     "description": "API Client for ActiveCollab",
-    "homepage": "https://bitbucket.org/lasar/activecollab-node",
+    "homepage": "https://github.com/appersonlabs/activecollab-node-api",
     "license": "MIT",
         "author": {
-        "name": "Lasar Liepins",
-        "email": "lasar@liepins.net",
-        "url": "http://lasar.org/"
+        "name": "Matt Apperson",
+        "email": "matt@appersonlabs.com",
+        "url": "http://appersonlabs.com/"
     },
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/lasar/activecollab-node.git"
+        "url": "https://github.com/appersonlabs/activecollab-node-api.git"
     },
     "bugs": {
-        "url": "https://bitbucket.org/lasar/activecollab-node/issues",
-        "email": "lasar@liepins.net"
+        "url": "https://github.com/appersonlabs/activecollab-node-api/issues",
+        "email": "matt@appersonlabs.com"
     },
     "main": "index.js",
     "engines": {
