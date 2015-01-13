@@ -1,6 +1,6 @@
 {
     "name": "activecollab-api",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "API Client for ActiveCollab",
     "homepage": "https://github.com/appersonlabs/activecollab-node-api",
     "license": "MIT",
