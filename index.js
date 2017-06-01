@@ -9,7 +9,9 @@ var ActiveCollab = function(apiUrl, apiKey) {
 		'info',
 		'people',
 		'projects',
-		'tasks'
+		'tasks',
+		'invoices',
+		'reports'
 	];
 	this.loadModules();
 }
