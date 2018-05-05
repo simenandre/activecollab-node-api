@@ -1,27 +1,27 @@
 {
-    "name": "activecollab-api",
-    "version": "0.0.2",
-    "description": "API Client for ActiveCollab",
-    "homepage": "https://github.com/appersonlabs/activecollab-node-api",
-    "license": "MIT",
-    "author": {
-        "name": "Matt Apperson",
-        "email": "matt@appersonlabs.com",
-        "url": "http://appersonlabs.com/"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/appersonlabs/activecollab-node-api.git"
-    },
-    "bugs": {
-        "url": "https://github.com/appersonlabs/activecollab-node-api/issues",
-        "email": "matt@appersonlabs.com"
-    },
-    "main": "index.js",
-    "engines": {
-        "node": ">=0.10"
-    },
-    "dependencies": {
-        "request": "~2.36.0"
-    }
+  "name": "activecollab-api",
+  "version": "0.0.2",
+  "description": "API Client for ActiveCollab",
+  "homepage": "https://github.com/appersonlabs/activecollab-node-api",
+  "license": "MIT",
+  "author": {
+    "name": "Matt Apperson",
+    "email": "matt@appersonlabs.com",
+    "url": "http://appersonlabs.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appersonlabs/activecollab-node-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/appersonlabs/activecollab-node-api/issues",
+    "email": "matt@appersonlabs.com"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "request": "~2.82.0"
+  }
 }
