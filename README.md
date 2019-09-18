@@ -1,5 +1,7 @@
 # activecollab-node-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cobraz/activecollab-node-api.svg)](https://greenkeeper.io/)
+
 A simple client module for accessing ActiveCollab's API.
 Based on the work of @lasar
 
